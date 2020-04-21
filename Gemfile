@@ -67,3 +67,5 @@ gem "refile-mini_magick"
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 
+gem 'dotenv-rails'
+
